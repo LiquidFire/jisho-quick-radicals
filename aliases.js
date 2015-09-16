@@ -256,182 +256,348 @@ aliases = {
   // ⻌
   37: [
     "⻌",
+    "water slide", // WaniKani
   ],
   // 口
   38: [
     "口",
+    "kuti",
+    "kuchi",
+    "mouth", // WaniKani
   ],
   // 囗
   39: [
     "囗",
+    "kunigamae",
+    "surround",
   ],
   // 土
   40: [
     "土",
+    "tuti",
+    "tsuchi",
+    "soil",
+    "earth",
+    "grave", // WaniKani
   ],
   // 士
   41: [
     "士",
+    "si",
+    "shi",
+    "scholar",
+    "bachelor",
+    "samurai", // WaniKani
   ],
   // 夂
   42: [
     "夂",
+    "fuyu",
+    "winter", // WaniKani
   ],
   // 夕
   43: [
     "夕",
+    "タ",
+    "ta",
+    "yuu",
+    "yuube",
+    "sunset",
+    "evening", // WaniKani
   ],
   // 大
   44: [
     "大",
+    "oo",
+    "ookii",
+    "tai",
+    "dai",
+    "big", // WaniKani
   ],
   // 女
   45: [
     "女",
+    "jo",
+    "onna",
+    "onnna",
+    "female",
+    "woman", // WaniKani
   ],
   // 子
   46: [
     "子",
+    "ko",
+    "seed",
+    "child", // WaniKani
   ],
   // 宀
   47: [
     "宀",
+    "crown",
+    // "roof", // conflicts with WaniKani
+    "helmet", // WaniKani
   ],
   // 寸
   48: [
     "寸",
+    "sun",
+    "sunn",
+    "mamori", // as in 守
+    "mamoru",
+    "measure",
+    "measurement", // WaniKani
   ],
   // 小
   49: [
     "小",
+    "syou",
+    "shou",
+    "small", // WaniKani
   ],
   // ⺌
   50: [
     "⺌",
+    "'''",
+    "```",
+    "triceratops", // WaniKani
   ],
   // 尢
   51: [
     "尢",
+    "dainomageasi",
+    "dainomageashi",
+    "lame",
+    "pirate", // WaniKani
   ],
   // 尸
   52: [
     "尸",
+    "p",
+    "P",
+    "corpse",
+    "flag", // WaniKani
   ],
   // 屮
   53: [
     "屮",
+    "gyaku", // as in 逆
+    "sprout",
   ],
   // 山
   54: [
     "山",
+    "yama",
+    "mountain", // WaniKani
   ],
   // 川
   55: [
     "川",
+    "kawa",
+    "river", // WaniKani
   ],
   // 巛
   56: [
     "巛",
+    "<<<",
+    "magarigawa",
+    "curving river",
+    "arrows", // WaniKani
   ],
   // 工
   57: [
     "工",
+    "エ",
+    "e",
+    "I",
+    "kou",
+    "work",
+    "construction", // WaniKani
   ],
   // 已
   58: [
     "已",
+    "己",
+    "巳",
+    "onore",
+    "snake", // WaniKani
   ],
   // 巾
   59: [
     "巾",
+    "city",
+    "town",
+    "market",
+    "two face", // WaniKani
   ],
   // 干
   60: [
     "干",
+    "hosu",
+    "dry",
+    "antenna", // WaniKani
   ],
   // 幺
   61: [
     "幺",
+    "kei", // as in 系
+    "itogasira",
+    "itogashira",
+    "poop", // WaniKani
   ],
   // 广
   62: [
     "广",
+    "dotted cliff",
+    "mullet", // WaniKani
   ],
   // 廴
   63: [
     "廴",
+    "long stride",
+    "big bird", // WaniKani
   ],
   // 廾
   64: [
     "廾",
+    "h",
+    "H",
+    "twenty", // WaniKani
   ],
   // 弋
   65: [
     "弋",
+    "siki", // as in 式
+    "shiki",
+    "ceremony", // WaniKani
   ],
   // 弓
   66: [
     "弓",
+    "bow",
+    "yumi",
+    "spring", // WaniKani
   ],
   // ヨ
   67: [
     "ヨ",
+    "E",
+    "yo",
+    "wolverine", // WaniKani
   ],
   // 彑
   68: [
     "彑",
+    "go", // as in 互
+    "tagai",
+    "mutual",
+    "shuriken", // WaniKani
   ],
   // 彡
   69: [
     "彡",
+    "///",
+    "ミ",
+    "3",
+    "mi",
+    "beard",
+    "hair", // WaniKani
   ],
   // 彳
   70: [
     "彳",
+    "step",
+    "going man",
+    "loiter", // WaniKani
   ],
   // ⺖
   71: [
     "⺖",
+    "heart left",
+    "left heart",
+    "fish stick", // WaniKani
   ],
   // ⺘
   72: [
     "⺘",
+    "motu", // as in 持
+    "motsu",
+    "utu", // as in 打
+    "utsu",
+    "hand left",
+    "left hand",
+    "nailbat", // WaniKani
   ],
   // ⺡
   73: [
     "⺡",
+    "氵",
+    "water left",
+    "left water",
+    "tunami",
+    "tsunami", // WaniKani
   ],
   // ⺨
   74: [
     "⺨",
+    "犭",
+    "dog left",
+    "left dog",
+    "animal", // WaniKani
   ],
   // ⺾
   75: [
     "⺾",
+    "艹",
+    "hana", // as in 花
+    "grass",
+    "flowers", // WaniKani
   ],
   // ⻏
   76: [
     "⻏",
+    "b",
+    "B",
+    "bu", // as in 部
+    "butcher", // WaniKani
   ],
   // ⻖
   77: [
     "⻖",
+    "fusegu", // as in 防
+    "left b",
+    "b left",
+    "butcher left",
+    "left butcher",
   ],
   // 也
   78: [
     "也",
+    "hoka", // as in 他
+    "ike", // as in 池
+    "other",
+    "lake",
+    "alligator", // WaniKani
   ],
   // 亡
   79: [
     "亡",
+    "bou",
+    "death", // WaniKani
   ],
   // 及
   80: [
     "及",
+    "kyuu",
+    "escalator", // WaniKani
   ],
   // 久
   81: [
     "久",
+    "hisa",
+    "hisasiburi",
+    "hisashiburi",
+    "long time",
+    "raptor cage", // WaniKani
   ],
 // Strokes: 4
 // -----------
