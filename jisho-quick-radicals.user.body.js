@@ -4,6 +4,9 @@ function buildAliasesReverseMap() {
     var aliasesForRadical = aliases[radicalIndex];
     for (var aliasIndex in aliasesForRadical) {
       var alias = aliasesForRadical[aliasIndex];
+      if (alias in reverseMap) {
+        alert("Duplicate alias: " + alias);
+      }
       reverseMap[alias] = radicalIndex;
     }
   }
