@@ -4,6 +4,8 @@ aliases = {
   // 一
   1: [
     "一",
+    "-",
+    "1",
     "ichi",
     "iti",
     "one", // WaniKani
@@ -24,51 +26,231 @@ aliases = {
   4: [
     "ノ",
     "丿",
+    "/",
     "no",
     "slide", // WaniKani
   ],
   // "乙"
   5: [
     "乙",
+    "z",
     "otome", // as in 乙女
     "nose", // WaniKani
   ],
+  // 亅
   6: [
     "亅",
+    "]",
     "barb", // WaniKani
   ],
 // Strokes: 2
 // -----------
-//   "二": 7, // 二
-//   "亠": 8, // 亠
-//   "人": 9, // 人
-//   "⺅": 10, // ⺅
-//   "𠆢": 11, // 𠆢
-//   "儿": 12, // 儿
-//   "入": 13, // 入
-//   "ハ": 14, // ハ
-//   "丷": 15, // 丷
-//   "冂": 16, // 冂
-//   "冖": 17, // 冖
-//   "冫": 18, // 冫
-//   "几": 19, // 几
-//   "凵": 20, // 凵
-//   "刀": 21, // 刀
-//   "⺉": 22, // ⺉
-//   "力": 23, // 力
-//   "勹": 24, // 勹
-//   "匕": 25, // 匕
-//   "匚": 26, // 匚
-//   "十": 27, // 十
-//   "卜": 28, // 卜
-//   "卩": 29, // 卩
-//   "厂": 30, // 厂
-//   "厶": 31, // 厶
-//   "又": 32, // 又
-//   "マ": 33, // マ
-//   "九": 34, // 九
-//   "ユ": 35, // ユ
-//   "乃": 36, // 乃
+  // 二
+  7: [
+    "二",
+    "=",
+    "2",
+    "ni",
+    "two", // WaniKani
+  ],
+  // 亠
+  8: [
+    "亠",
+    "lid", // WaniKani
+  ],
+  // 人
+  9: [
+    "人",
+    "hito",
+    "person", // WaniKani
+  ],
+  // ⺅
+  10: [
+    "⺅",
+    "ｲ",
+    "i",
+    "ninben",
+    "personleft",
+    "hitoleft",
+    "leader", // WaniKani
+  ],
+  // 𠆢
+  11: [
+    "𠆢",
+    "亼",
+    "^",
+    "persontop",
+    "hitotop",
+    "hitoyane",
+    "roof", // WaniKani
+  ],
+  // 儿
+  12: [
+    "儿",
+    "legs", // WaniKani
+  ],
+  // 入
+  13: [
+    "入",
+    "nyuu",
+    "hairu",
+    "enter", // WaniKani
+  ],
+  // ハ
+  14: [
+    "ハ",
+    "/\\",
+    "ha",
+    "fins", // WaniKani
+  ],
+  // 丷
+  15: [
+    "丷",
+    "''",
+    "`'",
+    "``",
+    "\"",
+    "horns", // WaniKani
+  ],
+  // 冂
+  16: [
+    "冂",
+    "upside-down box",
+    "upside down box",
+    "head", // WaniKani
+  ],
+  // 冖
+  17: [
+    "冖",
+    "[",
+    "wa",
+    "wakannmuri",
+    "cover",
+    "forehead", // WaniKani
+  ],
+  // 冫
+  18: [
+    "冫",
+    ";",
+    "ice", // WaniKani
+  ],
+  // 几
+  19: [
+    "几",
+    "tukue",
+    "desk",
+    "table", // WaniKani
+  ],
+  // 凵
+  20: [
+    "凵",
+    "box", // WaniKani
+    "open box",
+  ],
+  // 刀
+  21: [
+    "刀",
+    "katana",
+    "sword", // WaniKani
+  ],
+  // ⺉
+  22: [
+    "⺉",
+    "リ",
+    "ri",
+    "ribs", // WaniKani
+  ],
+  // 力
+  23: [
+    "力",
+    "tikara",
+    "chikara",
+    "ryoku",
+    "power", // WaniKani
+  ],
+  // 勹
+  24: [
+    "勹",
+    "wrap",
+    "enclosure", // WaniKani
+  ],
+  // 匕
+  25: [
+    "匕",
+    "hi",
+    "saji",
+    "spoon", // WaniKani
+  ],
+  // 匚
+  26: [
+    "匚",
+    "hakogamae",
+    "side box",
+    "cage", // WaniKani
+  ],
+  // 十
+  27: [
+    "十",
+    "10",
+    "juu",
+    "jyuu",
+    "zyuu",
+    "ten",
+    "cross", // WaniKani
+  ],
+  // 卜
+  28: [
+    "卜",
+    "to",
+    "toe", // WaniKani
+  ],
+  // 卩
+  29: [
+    "卩",
+    "seal",
+    "stamp", // WaniKani
+  ],
+  // 厂
+  30: [
+    "厂",
+    "cliff", // WaniKani
+  ],
+  // 厶
+  31: [
+    "厶",
+    "mu",
+    "pile", // WaniKani
+  ],
+  // 又
+  32: [
+    "又",
+    "mata",
+    "again",
+    "stool", // WaniKani
+  ],
+  // マ
+  33: [
+    "マ",
+    "ma",
+    "mama", // WaniKani
+  ],
+  // 九
+  34: [
+    "九",
+    "9",
+    "nine", // WaniKani
+  ],
+  // ユ
+  35: [
+    "ユ",
+    "yu",
+    "hook", // WaniKani
+  ],
+  // 乃
+  36: [
+    "乃",
+    "stairs", // WaniKani
+  ],
 // Strokes: 3
 // -----------
 //   "⻌": 37, // ⻌
