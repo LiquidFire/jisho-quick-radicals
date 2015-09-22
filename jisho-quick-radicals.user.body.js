@@ -23,6 +23,7 @@ function selectRadical(alias) {
   var radicalLi = $(selector);
   if (radicalLi.length == 1)
   {
+    // TODO: check if already selected and say something
     radicalLi.click();
     return true;
   }

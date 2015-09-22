@@ -30,7 +30,7 @@ aliases = {
     "no",
     "slide", // WaniKani
   ],
-  // "乙"
+  // 乙
   5: [
     "乙",
     "z",
@@ -340,8 +340,6 @@ aliases = {
   // 寸
   48: [
     "寸",
-    "sun",
-    "sunn",
     "mamori", // as in 守
     "mamoru",
     "measure",
@@ -366,6 +364,10 @@ aliases = {
     "尢",
     "dainomageasi",
     "dainomageashi",
+    "sizu", // as in 沈
+    "shizu",
+    "sizumu",
+    "shizumu",
     "lame",
     "pirate", // WaniKani
   ],
@@ -424,6 +426,8 @@ aliases = {
   // 巾
   59: [
     "巾",
+    "si2",
+    "shi2",
     "city",
     "town",
     "market",
@@ -604,178 +608,313 @@ aliases = {
   // ⺹
   82: [
     "⺹",
+    "mono", // as in 者
+    "coffin", // WaniKani
   ],
   // 心
   83: [
     "心",
+    "kokoro",
+    "heart", // WaniKani
   ],
   // 戈
   84: [
     "戈",
+    "halberd",
+    "spear",
+    "drunkard", // WaniKani
   ],
   // 戸
   85: [
     "戸",
+    "to2",
+    "door", // WaniKani
   ],
   // 手
   86: [
     "手",
+    "te",
+    "hand", // WaniKani
   ],
   // 支
   87: [
     "支",
+    "si3",
+    "shi3",
+    "branch",
+    "sasaeru",
+    "frog", // WaniKani
   ],
   // 攵
   88: [
     "攵",
+    "strike",
   ],
   // 文
   89: [
     "文",
+    "bun",
+    "bunn",
+    "script",
+    "doll", // WaniKani
   ],
   // 斗
   90: [
     "斗",
+    "dipper",
+    "chopsticks", // WaniKani
   ],
   // 斤
   91: [
     "斤",
+    "ono",
+    "axe", // WaniKani
   ],
   // 方
   92: [
     "方",
+    "hou",
+    "kata",
+    "square",
+    "direction", // WaniKani
   ],
   // 无
   93: [
     "无",
+    "negative",
   ],
   // 日
   94: [
     "日",
+    "hi2",
+    "niti",
+    "nichi",
+    "day",
+    "sun", // WaniKani
   ],
   // 曰
   95: [
     "曰",
+    "say",
   ],
   // 月
   96: [
     "月",
+    "tuki",
+    "tsuki",
+    "getu",
+    "getsu",
+    "gatu",
+    "gatsu",
+    "month",
+    "moon", // WaniKani
   ],
   // 木
   97: [
     "木",
+    "ki",
+    "moku",
+    "tree", // WaniKani
   ],
   // 欠
   98: [
     "欠",
+    "tugi", // as in 次
+    "tsugi",
+    "yawn",
+    "lack", // WaniKani
   ],
   // 止
   99: [
     "止",
+    "tome",
+    "tomeru",
+    "yame",
+    "yameru",
+    "stop", // WaniKani
   ],
   // 歹
   100: [
     "歹",
+    "retu", // as in 列
+    "retsu",
+    "tatoe", // as in 例
+    "decay",
+    "bad", // WaniKani
   ],
   // 殳
   101: [
     "殳",
+    "pike",
+    "yaku", // as in 役
+    "setu", // as in 設
+    "setsu",
+    "ikea", // WaniKani
   ],
   // 比
   102: [
     "比",
+    "hi3",
+    "ratio",
+    "compare", // WaniKani
   ],
   // 毛
   103: [
     "毛",
+    "mou",
+    "wool",
+    "hair2",
+    "fur", // WaniKani
   ],
   // 氏
   104: [
     "氏",
+    "si4",
+    "shi4",
+    "karesi",
+    "kareshi",
+    "clan",
+    "duck", // WaniKani
   ],
   // 气
   105: [
     "气",
+    "ki2",
+    "steam", // WaniKani
   ],
   // 水
   106: [
     "水",
+    "sui",
+    "mizu",
+    "water", // WaniKani
   ],
   // 火
   107: [
     "火",
+    "ka",
+    "hi4",
+    "fire", // WaniKani
   ],
   // ⺣
   108: [
     "⺣",
+    "netu", // as in 熱
+    "netsu",
+    "fish tail", // WaniKani
   ],
   // 爪
   109: [
     "爪",
+    "tume",
+    "tsume",
+    "nail",
+    "talon",
+    "claw", // WaniKani
   ],
   // 父
   110: [
     "父",
+    "titi",
+    "chichi",
+    "kou2", // as in 交
+    "kawasu",
+    "exchange",
+    "father", // WaniKani
   ],
   // 爻
   111: [
     "爻",
+    "divination",
   ],
   // 爿
   112: [
     "爿",
+    "kita", // as in 北
+    "left kata2",
+    "kata2 left",
   ],
   // 片
   113: [
     "片",
+    "kata2",
+    "waiter", // WaniKani
   ],
   // 牛
   114: [
     "牛",
+    "usi",
+    "ushi",
+    "gyuu",
+    "cow", // WaniKani
   ],
   // 犬
   115: [
     "犬",
+    "inu",
+    "dog", // WaniKani
   ],
   // ⺭
   116: [
     "⺭",
+    "ネ",
+    "ne",
+    "pelican", // WaniKani
   ],
   // 王
   117: [
     "王",
+    "ou",
+    "king", // WaniKani
   ],
   // 元
   118: [
     "元",
+    "gen",
+    "genn",
+    "moto",
+    "origin", // WaniKani
   ],
   // 井
   119: [
     "井",
+    "i2",
+    "well", // WaniKani
   ],
   // 勿
   120: [
     "勿",
+    "mono2", // as in 物
+    "not",
+    "wing", // WaniKani
   ],
   // 尤
   121: [
     "尤",
+    "mottomo",
   ],
   // 五
   122: [
     "五",
+    "5",
+    "five", // WaniKani
   ],
   // 屯
   123: [
     "屯",
+    "jun", // as in 純
+    "junn",
   ],
   // 巴
   124: [
     "巴",
+    "tomoe",
   ],
   // 毋
   125: [
     "毋",
+    "mai", // as in 毎
+    "do not",
   ],
 // Strokes: 5
 // -----------
