@@ -621,7 +621,6 @@ aliases = {
   84: [
     "戈",
     "halberd",
-    "spear",
     "drunkard", // WaniKani
   ],
   // 戸
@@ -921,114 +920,224 @@ aliases = {
   // 玄
   126: [
     "玄",
+    "gen2",
+    "genn2",
+    "genkan", // as in 玄関
+    "gennkann",
+    "dark",
+    "mysterious", // WaniKani
   ],
   // 瓦
   127: [
     "瓦",
+    "tile",
+    "ga",
+    "kawara",
   ],
   // 甘
   128: [
     "甘",
+    "ama",
+    "amai",
+    "sweet", // WaniKani
   ],
   // 生
   129: [
     "生",
+    "sei",
+    "raw",
+    "birth",
+    "life", // WaniKani
   ],
   // 用
   130: [
     "用",
+    "you",
+    "use",
+    "task",
+    "elephant", // WaniKani
   ],
   // 田
   131: [
     "田",
+    "ta2",
+    "rice field",
+    "rice paddy", // WaniKani
   ],
   // 疋
   132: [
     "疋",
+    "bolt of cloth",
+    "hiki",
+    "coat rack", // WaniKani
   ],
   // 疒
   133: [
     "疒",
+    "byou", // as in 病気
+    "sickness",
+    "sick", // WaniKani
   ],
   // 癶
   134: [
     "癶",
+    "hatu",
+    "hatsu",
+    "footsteps",
+    "dotted tent",
+    "tent", // WaniKani
   ],
   // 白
   135: [
     "白",
+    "haku",
+    "siro",
+    "shiro",
+    "white", // WaniKani
   ],
   // 皮
   136: [
     "皮",
+    "hi5",
+    "hifu",
+    "kawa2",
+    "hide",
+    "skin", // WaniKani
   ],
   // 皿
   137: [
     "皿",
+    "sara",
+    "dish",
+    "plate", // WaniKani
   ],
   // 目
   138: [
     "目",
+    "me",
+    "eye", // WaniKani
+    "eyes",
   ],
   // 矛
   139: [
     "矛",
+    "spear",
+    "hoko",
+    "soldier", // WaniKani
   ],
   // 矢
   140: [
     "矢",
+    "ya",
+    "arrow", // WaniKani
   ],
   // 石
   141: [
     "石",
+    "isi",
+    "ishi",
+    "seki",
+    "stone", // WaniKani
   ],
   // 示
   142: [
     "示",
+    "ancestor",
+    "veneration",
+    "simesu",
+    "shimesu",
+    "jackhammer", // WaniKani
   ],
   // 禸
   143: [
     "禸",
+    "rump",
+    "track",
+    "juu2",
   ],
   // 禾
   144: [
     "禾",
+    "grain",
+    "two-branch tree",
+    "two branch tree",
+    "ine",
+    "nogi",
+    "nogihen",
+    "pine", // WaniKani
   ],
   // 穴
   145: [
     "穴",
+    "ana",
+    "cave",
+    "hole", // WaniKani
   ],
   // 立
   146: [
     "立",
+    "ritu",
+    "ritsu",
+    "tatu",
+    "tatsu",
+    "erect",
+    "stand", // WaniKani
   ],
   // ⻂
   147: [
     "⻂",
+    "ネ2",
+    "ne2",
+    "ne with tail",
+    "ne tail",
+    "pelican2",
   ],
   // 世
   148: [
     "世",
+    "yo2",
+    "se",
+    "sei2",
+    "sekai",
+    "seiki",
+    "yononaka",
+    "generation", // WaniKani
   ],
   // 巨
   149: [
     "巨",
+    "kyo",
+    "giant", // WaniKani
   ],
   // 冊
   150: [
     "冊",
+    "satu",
+    "satsu",
+    "tomes",
+    "books", // WaniKani
   ],
   // 母
   151: [
     "母",
+    "haha",
+    "mother",
+    "drawer", // WaniKani
   ],
   // ⺲
   152: [
     "⺲",
+    "net",
+    "amigasira",
+    "amigashira",
+    "sauron", // WaniKani
   ],
   // 牙
   153: [
     "牙",
+    "kiba",
+    "tooth",
+    "fang", // WaniKani
   ],
 // Strokes: 6
 // -----------
