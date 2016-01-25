@@ -1,1 +1,5 @@
-script: make
+# The project doesn't really use node.js, but we want npm
+language: node_js
+before_script:
+  - npm install -g esprima
+script: make && esvalidate *.js
