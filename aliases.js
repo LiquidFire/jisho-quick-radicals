@@ -491,7 +491,7 @@ aliases = {
   // 彑
   68: [
     "彑",
-    "go", // as in 互
+    "go2", // as in 互
     "tagai",
     "mutual",
     "shuriken", // WaniKani
@@ -1144,102 +1144,199 @@ aliases = {
   // 瓜
   154: [
     "瓜",
+    "ka2",
+    "suika",
+    "kabocha",
+    "kabotya",
+    "pumpkin",
+    "watermelon",
+    "melon", // WaniKani
   ],
   // 竹
   155: [
     "竹",
+    "take",
+    "bamboo", // WaniKani
   ],
   // 米
   156: [
     "米",
+    "bei",
+    "kome",
+    "rice", // WaniKani
   ],
   // 糸
   157: [
     "糸",
+    "ito",
+    "silk",
+    "yarn",
+    "string",
+    "thread", // WaniKani
   ],
   // 缶
   158: [
     "缶",
+    "kan",
+    "hotogi",
+    "tin",
+    "jar",
+    "can", // WaniKani
   ],
   // 羊
   159: [
     "羊",
+    "hitsuji",
+    "hituji",
+    "hituzi",
+    "you2",
+    "sheep", // WaniKani
   ],
   // 羽
   160: [
     "羽",
+    "hane",
+    "feather",
+    "feathers", // WaniKani
   ],
   // 而
   161: [
     "而",
+    "shikashite",
+    "sikasite",
+    "and",
+    "but",
+    "rake", // WaniKani
   ],
   // 耒
   162: [
     "耒",
+    "raisuki",
+    "plough",
+    "redwood", // WaniKani
   ],
   // 耳
   163: [
     "耳",
+    "mimi",
+    "ears",
+    "ear", // WaniKani
   ],
   // 聿
   164: [
     "聿",
+    "fudedukuri",
+    "fudedzukuri",
+    "fudezukuri",
+    "ink brush",
+    "brush", // WaniKani
   ],
   // 肉
   165: [
     "肉",
+    "niku",
+    "meat", // WaniKani
   ],
   // 自
   166: [
     "自",
+    "ji",
+    "mizukara",
+    "self", // WaniKani
   ],
   // 至
   167: [
     "至",
+    "arrive",
+    "itaru",
+    "boob grave", // WaniKani
   ],
   // 臼
   168: [
     "臼",
+    "usu",
+    "mortar",
+    "grenade", // WaniKani
   ],
   // 舌
   169: [
     "舌",
+    "sita",
+    "shita",
+    "zetu",
+    "zetsu",
+    "tongue",
   ],
   // 舟
   170: [
     "舟",
+    "fune",
+    "boat",
+    "sail", // WaniKani
   ],
   // 艮
   171: [
     "艮",
+    "ryou",
+    "yoi",
+    "ii",
+    "stilness",
+    "stopping",
+    "good", // WaniKani
   ],
   // 色
   172: [
     "色",
+    "iro",
+    "colour",
+    "color", // WaniKani
   ],
   // 虍
   173: [
     "虍",
+    "tora",
+    "torakanmuri",
+    "tiger", // WaniKani
   ],
   // 虫
   174: [
     "虫",
+    "musi",
+    "mushi",
+    "worm",
+    "insect", // WaniKani
   ],
   // 血
   175: [
     "血",
+    "ti",
+    "chi",
+    "ketu",
+    "ketsu",
+    "blood", // WaniKani
   ],
   // 行
   176: [
     "行",
+    "kou3",
+    "gyou",
+    "iku",
+    "yuku",
+    "go", // WaniKani
   ],
   // 衣
   177: [
     "衣",
+    "i3",
+    "koromo",
+    "clothes", // WaniKani
   ],
   // 西
   178: [
     "西",
+    "nisi",
+    "nishi",
+    "west", // WaniKani
   ],
 // Strokes: 7
 // -----------
