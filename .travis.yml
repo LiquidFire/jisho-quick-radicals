@@ -1,5 +1,13 @@
 # The project doesn't really use node.js, but we want npm
 language: node_js
+node_js:
+  - "stable"
 before_script:
   - npm install -g esprima
+
 script: make && esvalidate *.js
+
+notifications:
+  email:
+    on_success: never
+    on_failure: change
