@@ -8,6 +8,8 @@ A user script aimed at people studying Japanese that lets you quickly select rad
 
 ## Status
 
+[![Build Status](https://travis-ci.org/LiquidFire/jisho-quick-radicals.svg?branch=master)](https://travis-ci.org/LiquidFire/jisho-quick-radicals)
+
 This user script is still a work-in-progress. It will currently break the search box on Jisho.org, so install at your own risk.
 
 ## Motivation
