@@ -1506,50 +1506,86 @@ aliases = {
   // 金
   200: [
     "金",
+    "kane",
+    "kin",
+    "kinn",
+    "metal",
+    "gold", // WaniKani
   ],
   // 長
   201: [
     "長",
+    "naga",
+    "nagai",
+    "chou",
+    "tyou",
+    "long", // WaniKani
   ],
   // 門
   202: [
     "門",
+    "mon",
+    "monn",
+    "gate", // WaniKani
   ],
   // 隶
   203: [
     "隶",
+    "rei",
+    "slave",
   ],
   // 隹
   204: [
     "隹",
+    "furutori",
+    "small bird",
+    "sin3",
+    "shin3",
+    "turkey", // WaniKani
   ],
   // 雨
   205: [
     "雨",
+    "ame",
+    "rain", // WaniKani
   ],
   // 青
   206: [
     "青",
+    "ao",
+    "aoi",
+    "blue", // WaniKani
   ],
   // 非
   207: [
     "非",
+    "hi6",
+    "wrong",
+    "injustice", // WaniKani
   ],
   // 奄
   208: [
     "奄",
+    "ore",
   ],
   // 岡
   209: [
     "岡",
+    "oka",
+    "hill", // WaniKani
   ],
   // 免
   210: [
     "免",
+    "men",
+    "menn",
+    "excuse",
   ],
   // 斉
   211: [
     "斉",
+    "sai",
+    "stilts", // WaniKani
   ],
 // Strokes: 9
 // -----------
