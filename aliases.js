@@ -694,7 +694,7 @@ aliases = {
   // 曰
   95: [
     "曰",
-    "say",
+    "hirabi",
   ],
   // 月
   96: [
@@ -1343,86 +1343,163 @@ aliases = {
   // 臣
   179: [
     "臣",
+    "omi",
+    "retainer",
+    "minister",
+    "official",
+    "servant", // WaniKani
   ],
   // 見
   180: [
     "見",
+    "mi2",
+    "miru",
+    "view",
+    "look",
+    "see", // WaniKani
   ],
   // 角
   181: [
     "角",
+    "tuno",
+    "tsuno",
+    "kado",
+    "horn",
+    "angle", // WaniKani
   ],
   // 言
   182: [
     "言",
+    "iu",
+    "speech",
+    "say", // WaniKani
   ],
   // 谷
   183: [
     "谷",
+    "tani",
+    "valley", // WaniKani
   ],
   // 豆
   184: [
     "豆",
+    "mame",
+    "tou",
+    "bean",
+    "beans", // WaniKani
   ],
   // 豕
   185: [
     "豕",
+    "buta",
+    "inoko",
+    "pig", // WaniKani
   ],
   // 豸
   186: [
     "豸",
+    "mujina",
+    "cat",
+    "badger", // WaniKani
   ],
   // 貝
   187: [
     "貝",
+    "kai",
+    "shell",
+    "clam", // WaniKani
   ],
   // 赤
   188: [
     "赤",
+    "aka",
+    "red", // WaniKani
   ],
   // 走
   189: [
     "走",
+    "hasiru",
+    "hashiru",
+    "run", // WaniKani
   ],
   // 足
   190: [
     "足",
+    "asi",
+    "ashi",
+    "foot", // WaniKani
   ],
   // 身
   191: [
     "身",
+    "mi3",
+    "sin2",
+    "shin2",
+    "body",
+    "somebody", // WaniKani
   ],
   // 車
   192: [
     "車",
+    "kuruma",
+    "sha",
+    "sya",
+    "cart",
+    "car", // WaniKani
   ],
   // 辛
   193: [
     "辛",
+    "karai",
+    "turai",
+    "tsurai",
+    "bitter",
+    "spicy", // WaniKani
   ],
   // 辰
   194: [
     "辰",
+    "shinnotatsu",
+    "sinnotatu",
+    "morning",
+    "superman", // WaniKani
   ],
   // 酉
   195: [
     "酉",
+    "hiyominotori",
+    "wine",
+    "sake",
+    "alcohol", // WaniKani
   ],
   // 釆
   196: [
     "釆",
+    "wakareru",
+    "distinguish",
+    "sickle", // WaniKani
   ],
   // 里
   197: [
     "里",
+    "sato",
+    "village",
+    "sunflower", // WaniKani
   ],
   // 舛
   198: [
     "舛",
+    "maiasi",
+    "maiashi",
+    "oppose",
+    "protester", // WaniKani
   ],
   // 麦
   199: [
     "麦",
+    "mugi",
+    "wheat",
+    "oat",
   ],
 // Strokes: 8
 // -----------
